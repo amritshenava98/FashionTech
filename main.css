@@ -1,3 +1,18 @@
 body {
  font-family: 'Baloo Thambi', cursive;
 }
+
+maintitle {
+ padding: 5px;
+ border: 10px black;
+}
+
+about {
+ padding: 5px;
+ border: 10px black;
+}
+
+Team {
+ padding: 5px;
+ border: 10px black;
+}
